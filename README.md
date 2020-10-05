@@ -9,11 +9,11 @@ Telegram Bots (Tg_Bots)
 [.          .SUBSCRIBE YOUTUBE CHANNEL.             .](https://www.youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ)
 
 
-## CONTENT
+## CONTECT
 
-[..Content For Telegram..](https://t.me/Mo_Tech_YouTube)
+[..Contect For Telegram..](https://t.me/Mo_Tech_YouTube)
 
-[..Content For Instagram..](www.instagram.com/motech._)
+[..Contect For Instagram..](www.instagram.com/motech._)
 
 ## DESPLOY KEY
 
