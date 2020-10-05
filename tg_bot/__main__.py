@@ -21,9 +21,9 @@ PM_START_TEXT = """
 
 Hello {},My Name is {} !. 
 
-
 എന്നെ നോക്കി നടത്തുന്നത് [{}](https://t.me/{}) ആണ്...!! 
 
+/donate: Botന്റെ കുറച്ചു ഉള്ള വിവരങ്ങൾ...
 """
 
 HELP_STRINGS = """
@@ -133,13 +133,13 @@ def start(bot: Bot, update: Update, args: List[str]):
         else:
             first_name = update.effective_user.first_name
             update.effective_message.reply_photo(DEVIL_IMG,PM_START_TEXT.format(escape_markdown(first_name), escape_markdown(bot.first_name), OWNER_NAME, OWNER_USERNAME ),reply_markup=InlineKeyboardMarkup(
-                                                [[InlineKeyboardButton(text="📞Help",url="t.me/{}?start=help".format(bot.username)),InlineKeyboardButton(text=" ✅️ Owner.",url="https://t.me/Mo_Tech_YouTube")],  
-                                                [InlineKeyboardButton(text="YouTube.",url="https://www.youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ"),InlineKeyboardButton(text="Share.",url="https://t.me/share/url?url=https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ")]]),disable_web_page_preview=True, parse_mode=ParseMode.MARKDOWN)
+                                                [[InlineKeyboardButton(text="📞Help",url="t.me/{}?start=help".format(bot.username)),InlineKeyboardButton(text=" ✅️ Owner.",url="https://t.me/Game_God_77")],  
+                                                [InlineKeyboardButton(text="👨‍👨‍👧‍👦🅖🅡🅞🅤🅟.",url="https://t.me/Malayalam_Movi"),InlineKeyboardButton(text="🎥🅒🅗🅐🅝🅝🅔🅛.",url="https://t.me/joinchat/AAAAAFR3fUoxfOwZEMhF6A")]]),disable_web_page_preview=True, parse_mode=ParseMode.MARKDOWN)
     else:
          
 
         update.effective_message.reply_text("Heya, How can I help you? 🙂",reply_markup=InlineKeyboardMarkup(
-                                                [[InlineKeyboardButton(text="❓ Help",url="t.me/{}?start=help".format(bot.username)),InlineKeyboardButton(text="Share.",url="https://t.me/share/url?url=https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ")]]))
+                                                [[InlineKeyboardButton(text="❓ Help",url="t.me/{}?start=help".format(bot.username)),InlineKeyboardButton(text="🎥🅒🅗🅐🅝🅝🅔🅛.",url="https://t.me/joinchat/AAAAAFR3fUoxfOwZEMhF6A")]]))
                                   
 # for test purposes
 def error_callback(bot, update, error):
