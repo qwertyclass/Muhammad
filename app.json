@@ -21,7 +21,7 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "1245484011"
+      "value": "1309060772"
     },
     "START_PHOTTO": {
       "description": "Telegraph img url For Start Cmd",
@@ -29,7 +29,7 @@
     },
     "OWNER_USERNAME": {
       "description": "Your username",
-      "value": "Mo_Tech_YouTube"
+      "value": "Game_God_77"
     },
     "OWNER_NAME": {
       "description": "Your name",
@@ -61,7 +61,7 @@
     },
     "DONATION_LINK": {
       "description": "Optional: link where you would like to receive donations.",
-      "value": "https://t.me/Mo_Tech_YouTube"
+      "value": "https://t.me/Game_God_77"
     },
     "PORT": {
       "description": "Port to use for your webhooks",
