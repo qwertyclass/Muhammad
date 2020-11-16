@@ -1,24 +1,24 @@
 # Mo-Tech
 
-ഈ REPO വർക്കിംഗ്‌ അല്ല വേറെ REPO ലിങ്ക് തായ ഉണ്ട് അതിൽ കയറിയാൽ മതി....!!
+<p align="center">
+<img src="https://telegra.ph/file/99f34c15f9a1d86986fac.jpg" alt="Mo Tech Youtube">
 
-Telegram Bots (Tg_Bots)
+#  SUBSCRIBE
 
-## YOUTUBE CHANNEL LINK 👇
-
-[.          .SUBSCRIBE YOUTUBE CHANNEL.             .](https://www.youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ)
-
+<a href="https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ"><img src="https://img.shields.io/badge/SUBSCRIBE%20MY-CHANNEL-red.svg?logo=Youtube"></a>
 
 ## CONTECT
 
-[..Contect For Telegram..](https://t.me/Mo_Tech_YouTube)
+<a href="https://www.instagram.com/motech._"><img src="https://img.shields.io/badge/FOLLOW%20ON-INSTAGRAM-red.svg?logo=INSTAGRAM"></a>
 
-[..Contect For Instagram..](www.instagram.com/motech._)
 
-## DESPLOY KEY
+<a href="https://telegram.dog/mo_Tech_youtube"><img src="https://img.shields.io/badge/FOLLOW%20ON-TELEGRAM-red.svg?logo=TELEGRAM"></a>
 
-# NOT AVAILABLE 
 
-വേറെ ലിങ്ക് ആണ് ഉള്ളത്
+### USE FULL FILTER BOT
+
+<a href="https://telegram.dog/Filters_Ro_Bot"><img src="https://img.shields.io/badge/USE%20FULL-BOT-red.svg?logo=TELEGRAM"></a>
+
+### DEPLOY
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Mo-Tech-Muhammed/Management)
