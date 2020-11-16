@@ -12,7 +12,7 @@
 <a href="https://www.instagram.com/motech._"><img src="https://img.shields.io/badge/FOLLOW%20ON-INSTAGRAM-red.svg?logo=INSTAGRAM"></a>
 
 
-<a href="https://telegram.dog/mo_Tech_youtube"><img src="https://img.shields.io/badge/FOLLOW%20ON-TELEGRAM-red.svg?logo=TELEGRAM"></a>
+<a href="https://telegram.dog/Game_God_77"><img src="https://img.shields.io/badge/FOLLOW%20ON-TELEGRAM-red.svg?logo=TELEGRAM"></a>
 
 
 ### USE FULL FILTER BOT
