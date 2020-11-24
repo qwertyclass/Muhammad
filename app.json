@@ -1,6 +1,6 @@
 
 {
-  "name": "Filter_MO_Tech",
+  "name": "Filter_Qwertyclass",
   "description": "Telegram's sassiest group filter. Modular Telegram group filter bot!",
   "keywords": [
     "telegram",
@@ -9,7 +9,7 @@
     "manager",
     "3"
   ],
-  "repository": "hhttps://github.com/Mo-Tech-Muhammed/Muhammed",
+  "repository": "hhttps://github.com/qwertyclass/Muhammed",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
@@ -21,7 +21,7 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "1309060772"
+      "value": "1467652409"
     },
     "START_PHOTTO": {
       "description": "Telegraph img url For Start Cmd",
@@ -29,11 +29,11 @@
     },
     "OWNER_USERNAME": {
       "description": "Your username",
-      "value": "Game_God_77"
+      "value": "Qwertyclass"
     },
     "OWNER_NAME": {
       "description": "Your name",
-      "value": "𝓜𝓸 𝓣𝓮𝓬𝓱"
+      "value": "Qwertyclass"
     },
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode messages",
@@ -49,19 +49,19 @@
     },
     "SUDO_USERS": {
       "description": "A space separated list of user_ids which should be considered sudo users",
-      "value": "254318997"
+      "value": "1467652409"
     },
     "SUPPORT_USERS": {
       "description": "A space separated list of user_ids which should be considered support users (can gban/ungban, nothing else)",
-      "value": "254318997"
+      "value": "1467652409"
     },
     "WHITELIST_USERS": {
       "description": "A space separated list of user_ids which should be considered whitelisted - they can't be banned.",
-      "value": "254318997"
+      "value": "1467652409"
     },
     "DONATION_LINK": {
       "description": "Optional: link where you would like to receive donations.",
-      "value": "https://t.me/Game_God_77"
+      "value": "https://t.me/Qwertyclass"
     },
     "PORT": {
       "description": "Port to use for your webhooks",
