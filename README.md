@@ -21,4 +21,4 @@
 
 ### DEPLOY
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Mo-Tech-Muhammed/Management)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/qwertyclass/Muhammed)
