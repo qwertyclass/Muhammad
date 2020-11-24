@@ -39,9 +39,9 @@ Hello! my name is *{}*.
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nഈ പറഞ്ഞിരിക്കുന്ന commandകൾ എല്ലാം  / അല്ലെങ്കിൽ ! വെച്ച് ഉപയോഗിക്കാവുന്നതാണ്...\n")
 
 DONATE_STRING = """ഹായ്, 🤖ൻ ആവിശ്യമായ കോഡ്!
-എന്നെ ഉണ്ടാക്കിയത് [🍂.ഇദ്ദേഹം.🍂](https://t.me/Game_God_77) ആണ്...!!
+എന്നെ ഉണ്ടാക്കിയത് [🍂.ഇദ്ദേഹം.🍂](https://t.me/Qwertyclass) ആണ്...!!
 
-[📃.വെബ്സൈറ്റ് ലിങ്ക്.📃](https://www.github.com/Mo-Tech-Muhammed/Management) എന്റെ കോഡ് നിങ്ങൾക്ക്  കാണാവുന്നതാണ്. (വെബ്സൈറ്റ് ലിങ്ക് ക്ലിക്ക് ചെയ്യുക)
+[📃.വെബ്സൈറ്റ് ലിങ്ക്.📃](https://www.github.com/qwertyclass/Muhammed) എന്റെ കോഡ് നിങ്ങൾക്ക്  കാണാവുന്നതാണ്. (വെബ്സൈറ്റ് ലിങ്ക് ക്ലിക്ക് ചെയ്യുക)
 
 [🤖MORE REPO CHANNEL🤖](t.me/mo_tech_channel) 👈ഇതിൽ ഞങ്ങളുടെ എല്ലാ ബോട്ടിൻറെ Repo ഉണ്ട്.
 
@@ -136,8 +136,8 @@ def start(bot: Bot, update: Update, args: List[str]):
         else:
             first_name = update.effective_user.first_name
             update.effective_message.reply_photo(DEVIL_IMG,PM_START_TEXT.format(escape_markdown(first_name), escape_markdown(bot.first_name), OWNER_NAME, OWNER_USERNAME ),reply_markup=InlineKeyboardMarkup(
-                                                [[InlineKeyboardButton(text="✔️OWNER",url="t.me/joKeR_2006_JBS".format(bot.username)),InlineKeyboardButton(text="😎SUBSCRIBE NOW.",url="https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ")],  
-                                                [InlineKeyboardButton(text="👨‍👨‍👦‍👦GROUP",url="https://t.me/malayalam_Movies_Groups"),InlineKeyboardButton(text="🎥CHANNEL",url="https://t.me/MYM_LINKZ")]]),disable_web_page_preview=True, parse_mode=ParseMode.MARKDOWN)
+                                                [[InlineKeyboardButton(text="✔️OWNER",url="t.me/Qwertyclass".format(bot.username)),InlineKeyboardButton(text="😎SUBSCRIBE NOW.",url="https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ")],  
+                                                [InlineKeyboardButton(text="👨‍👨‍👦‍👦GROUP",url="https://t.me/Malayalam_Movies_Groups"),InlineKeyboardButton(text="🎥CHANNEL",url="https://t.me/MYM_LINKZ")]]),disable_web_page_preview=True, parse_mode=ParseMode.MARKDOWN)
     else:
          
 
